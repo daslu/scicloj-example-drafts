@@ -1,0 +1,6 @@
+{:paths ["src" "resources"]
+ :deps {org.clojure/clojure {:mvn/version "1.11.1"}
+        scicloj/scicloj.ml             {:mvn/version "0.2.1"}
+        org.scicloj/clay {:mvn/version "1-alpha15"}
+        aerial.hanami/aerial.hanami    {:mvn/version "0.12.9"}
+        org.scicloj/viz.clj {:mvn/version "1-alpha4"}}}
